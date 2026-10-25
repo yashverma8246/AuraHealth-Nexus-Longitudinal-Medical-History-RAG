@@ -1,0 +1,37 @@
+MIT License
+
+Copyright (c) 2024-2026 Yash Verma
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+EDUCATIONAL & OPEN SOURCE FREE USE CERTIFICATE / GRANT
+--------------------------------------------------------------------------------
+
+This project is completely free and open source. Permission is hereby granted
+unconditionally for all educational, academic, instructional, self-learning, 
+and research purposes, including but not limited to:
+- Classroom demonstrations, coursework, hackathons, and university projects.
+- AI, Natural Language Processing, and Healthcare Informatics research.
+- Forking, modifying, extending, redistributing, or presenting this codebase.
+
+Medical Research Notice:
+The patient records bundled in this repository (SYN-PAT-001) are 100% synthetic 
+and fictional. This software is provided solely for educational and research 
+demonstrations and must NOT be used as a clinical diagnostic or treatment device.

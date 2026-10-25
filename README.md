@@ -6,6 +6,8 @@
 [![Embeddings](https://img.shields.io/badge/Embeddings-all--MiniLM--L6--v2-orange)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 [![LLM Engine](https://img.shields.io/badge/LLM-Groq%20Cloud-F55036)](https://groq.com/)
 [![WCAG](https://img.shields.io/badge/Accessibility-WCAG%20AA%20Compliant-15803D)](https://www.w3.org/WAI/standards-guidelines/wcag/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-0F766E.svg)](LICENSE)
+[![Educational Use](https://img.shields.io/badge/Free%20for-Educational%20Use-blue.svg)](#educational-purpose-free-to-use-certificate)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-0F766E)](#)
 
 > **Clinical Disclaimer & Research Notice**: The data used in this project represents a fully synthetic, fictional patient (`SYN-PAT-001`, Arjun Mehta) spanning 15 annual records (2010–2024). This project is strictly engineered for artificial intelligence, retrieval-augmented generation (RAG), and healthcare informatics research. It must **not** be used for actual clinical diagnosis, triage, or medical treatment decisions.
@@ -37,6 +39,10 @@
 - [Example Queries](#example-queries)
 - [Evaluation Benchmark Results](#evaluation-benchmark-results)
 - [Multi-Patient Extensibility](#multi-patient-extensibility)
+- [License & Educational Use Certificate](#license--educational-use-certificate)
+  - [MIT Open Source License](#mit-open-source-license)
+  - [Educational Purpose & Free-to-Use Certificate](#educational-purpose--free-to-use-certificate)
+  - [Author & Acknowledgments](#author--acknowledgments)
 
 ---
 
@@ -466,7 +472,70 @@ Although configured out-of-the-box for `SYN-PAT-001`, the underlying architectur
 
 ---
 
-## License & Contact
+## License & Educational Use Certificate
 
-Developed as part of the AIML Crash AuraHealth Final Project.  
-Built with Python, Streamlit, FAISS, and Groq Cloud.
+### MIT Open Source License
+
+This project is open-source software licensed under the **[MIT License](LICENSE)**.
+
+```text
+MIT License
+
+Copyright (c) 2024-2026 Yash Verma
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+### Educational Purpose & Free-to-Use Certificate
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│             CERTIFICATE OF FREE EDUCATIONAL & RESEARCH USE             │
+├────────────────────────────────────────────────────────────────────────┤
+│ Project:    AuraHealth Nexus — Longitudinal Medical History RAG        │
+│ Author:     Yash Verma                                                 │
+│ License:    MIT Open Source License (Permissive & Free to Use)         │
+│ Status:     100% Free & Open Access for All Educational Purposes      │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+> **Grant of Educational Freedom**:  
+> Permission is hereby granted, unconditionally and free of charge, to students, educators, researchers, clinicians, and developers worldwide to use, study, copy, modify, merge, publish, distribute, sublicense, and/or teach with this project and all associated code, prompts, synthetic clinical records, and documentation for **any educational, academic, learning, personal, or research-driven endeavor**.
+
+#### Permitted & Encouraged Educational Uses:
+- 🎓 **Academic Study & Coursework**: Use freely in university computer science, biomedical engineering, data science, and AI/ML courses.
+- 🔬 **Research & Benchmarking**: Adapt the longitudinal chunking and chronological retrieval algorithms for research papers, thesis projects, and scientific benchmarking.
+- 🏆 **Hackathons & Competitions**: Fork, re-architect, or integrate this repository as a starting boilerplate or reference solution.
+- 👨‍🏫 **Instructional Demonstration**: Demonstrate clinical Retrieval-Augmented Generation (RAG), FAISS vector stores, Groq LLM inference, and WCAG-compliant Streamlit design in workshops and classrooms.
+- 💻 **Self-Paced Learning**: Inspect, experiment, break, and modify the code locally without licensing fees, subscriptions, or restrictive covenants.
+
+#### Clinical & Research Safe Harbor Notice:
+- All patient timelines, clinical lab values, medications, and progress notes contained within this repository (`SYN-PAT-001`, Arjun Mehta) are **100% synthetic and fictional**.
+- This platform is engineered strictly for computational research, educational demonstrations, and informatics exploration. It is **not** a certified medical diagnostic device and must not be used for direct patient care, clinical triage, or treatment decisions.
+
+---
+
+### Author & Acknowledgments
+
+- **Lead Developer**: Yash Verma
+- **Curriculum**: AIML Crash — AuraHealth Capstone Project
+- **Core Technologies**: Python, Streamlit, FAISS CPU, Sentence-Transformers, and Groq Cloud LPU
+
